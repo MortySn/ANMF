@@ -1,7 +1,7 @@
 # Update
-If you need the core code under reasonable request, please contact 220174323@seu.edu.cn
+update
 # ANMF
-This is our implementation for the paper“Additional Neural Matrix Factorization model for Computational drug repositioning. BMC Bioinformatics ”
+This is our dataset for the paper“Additional Neural Matrix Factorization model for Computational drug repositioning. BMC Bioinformatics ”
 #Author
 Xin-Xing Yang Southeast University 
 Email:220174323@seu.edu.cn
